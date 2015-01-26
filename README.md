@@ -1,7 +1,7 @@
 # linuxCustomKernelModule
 ###Linux自定义内核模块编写
 
-#### Homework3 步骤
+#### Homework2 步骤
 
 ###### 1.编写C和Makefile文件
 ###### 2.执行make命令 会生成一些相关文件(包括bjtu.ko)
